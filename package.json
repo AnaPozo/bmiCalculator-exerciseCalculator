@@ -1,0 +1,19 @@
+{
+  "name": "bmicalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calculateBmi": "node calculateBmi.js",
+    "exerciseCalculator": "node exerciseCalculator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
